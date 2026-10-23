@@ -1,0 +1,5 @@
+flask>=3.0.0
+werkzeug>=3.0.0
+gunicorn>=21.2.0
+libsql-client>=0.3.0
+requests>=2.30.0

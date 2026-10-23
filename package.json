@@ -1,0 +1,10 @@
+{
+  "name": "mr-boy-specialtea",
+  "version": "1.0.0",
+  "description": "Mr. Boy SpecialTea ordering system",
+  "scripts": {
+    "start": "python server.py",
+    "dev": "cd frontend && npm install && npm run dev",
+    "build": "cd frontend && npm install && npm run build"
+  }
+}

@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Python / SQLite
+__pycache__/
+*.pyc
+*.db
+database/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
